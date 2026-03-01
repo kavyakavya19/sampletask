@@ -1,3 +1,4 @@
+#TASK
 #Create three variables: one to store your name, one for your age, and one for your grade. Print them.
 #Store True, 10, 3.14, and "Python" into four variables. Print their data types using type().
 #Swap the values of two variables a = 5 and b = 10 without using a third variable.
