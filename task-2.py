@@ -1,3 +1,4 @@
+#TASK
 # Takes a sentence from the user.
 # Converts the sentence into a list of words.
 # Uses a loop to:
